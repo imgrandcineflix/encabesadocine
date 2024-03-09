@@ -44,6 +44,11 @@ body {
   color: #fff;
 }
 
+#nav-links-error-bugs:active{
+  background-color: rgb(255, 0, 0);
+  color: #fff;
+}
+
 .actives{
   background-color: #ff9800;
 }
